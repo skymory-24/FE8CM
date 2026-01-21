@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="FE8CM.makejar" default="makejar" basedir=".">
+  <target name ="makejar" description="Create a jar">
+    <jar jarfile="FE8CM-VEIEDITION.jar" includes="*.class" basedir="bin">
+		<manifest>
+			<attribute name="Main-Class" value="FE8CM"/>
+		</manifest>
+	</jar>
+  </target>
+</project>

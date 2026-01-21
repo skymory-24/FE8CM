@@ -1,0 +1,6 @@
+style:FE
+eyex:40
+eyey:96
+mouthx:40
+mouthy:112
+loop:1

@@ -1,0 +1,6 @@
+style:TeaLeaves
+ofsxl:-104
+ofsxr:200
+ofsy:110
+shouldflip:true
+scale:0.5
