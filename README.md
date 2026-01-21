@@ -2,9 +2,9 @@
 
 Original readme is below this section
 
-FE8CM modified for usage in the creation of 
-
-
+FE8CM modified for usage in the creation of VEIFEGBAQ and its various unofficial spinoffs.
+Characters are handled entirely differently so any custom characters will have to be remade, sorry.
+I might make a proper guide for this later, probably not though. Again, sorry.
 
 # -------
 
