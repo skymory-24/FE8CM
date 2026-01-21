@@ -1,3 +1,13 @@
+# FE8CM - VEIEDITION
+
+Original readme is below this section
+
+FE8CM modified for usage in the creation of 
+
+
+
+# -------
+
 # FE8CM
 
 //Update 5/27/2020 whatever version this is i don't really care anymore
@@ -29,14 +39,13 @@ IMPORTANT CHANGES
 -added ability to import backgrounds 
 To do this, put your 240 x 160 picture in the backgrounds folder, then put the picture's filename on a new line in backgrounds.txt in the Data folder, and it should work.
 
-
 ////// THINGS YOU NEED TO DOWNLOAD FIRST FOR OPTIMAL USE OR USE IN GENERAL \\\\\\
 
 You will need:
 
 - The latest version of Java (JRE): https://www.java.com/en/download/
 - This font: https://fontstruct.com/fontstructions/show/1396587/gba-fe-dialogue
-or you can find in this folder.
+  or you can find in this folder.
 
 ////// ***********************IMPORTANT*********************************** \\\\\\
 
